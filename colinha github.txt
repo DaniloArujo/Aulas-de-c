@@ -1,0 +1,18 @@
+git config  --global user.name "nome do usuário"
+git config  --global user.email "daniloaraujomota@gmail.com"
+cd C:\Users\danilo.mota\Desktop\teste git                                              \\ comando windows abrir local do arquivo
+git clone https://github.com/joycitta-siqueira/algoritmoeprogramacao.git               \\clonar repositório
+git status                                                                             \\ verificar se houve alteração no arquivo
+git add .                                                                              \\adiciona os arquivoas a serem commitados
+ou git add ex1.c                                                                       \\adiciona somente os arquivos selecionados
+
+
+
+
+
+git commit -m"insira uma mensagem com as mudanças"                                     \\confirma que o arquivo é estável
+git push origin main                                                                   \\envia os arquivos para o github
+
+// dentro da pasta, criar um arquivo .gitignore sem extensão para não enviar os arquivos .exe, dentro do arquivo escrever *.exe
+
+
