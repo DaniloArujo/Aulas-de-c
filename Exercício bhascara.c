@@ -18,7 +18,7 @@ int main(){
 	if(delta < 0 && a == 0)
 		printf("impossível calcular");
 		
-		else printf("%lf  e %lf sao as raizes da equacao.",&bhascara1,&bhascara2);
+		else printf("%lf  e %lf sao as raizes da equacao.",bhascara1,bhascara2);
 	
 	
 }
