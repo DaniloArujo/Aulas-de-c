@@ -4,10 +4,10 @@ int main(){
 	double a, b, , x;
 	
     
-	printf("digite o primeiro número: ");
+	printf("digite o primeiro nÃºmero: ");
     scanf("%lf",&a);
     
-    printf("Digite o segundo número: ");
+    printf("Digite o segundo nÃºmero: ");
     scanf("%lf",&b);
    
     x = (a * 3.5 + b * 7.5)/11; 
