@@ -6,13 +6,13 @@
 int main(){
     int a, b, x;
     
-	printf("digite o primeiro número: ");
+	printf("digite o primeiro nÃºmero: ");
     scanf("%d",&a);
     
-    printf("Digite o segundo número: ");
+    printf("Digite o segundo nÃºmero: ");
     scanf("%d",&b);
     
-    x = a + b;  //comando de atribuição =; operador matemático +
+    x = a + b;  //comando de atribuiÃ§Ã£o =; operador matemÃ¡tico +
 	
 	printf("X = %d", x);
     
