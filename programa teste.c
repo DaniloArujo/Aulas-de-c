@@ -5,9 +5,9 @@ int main(){
 	
 	printf("Digite uma idade: ");
 	scanf("%d",&idade);
+
 	
-	
-    if(idade >0 && idade<=10)
+	if(idade >0 && idade<=10)
 		printf("Criança\n");
 	else if (idade>11 && idade<18)
 		printf("adolescente\n");
@@ -15,6 +15,5 @@ int main(){
 		printf("idoso\n");
 	else if (idade>101 && idade<150)
 		printf("zumbi\n");
-	else printf("idade inválida");
-    
+	else printf("idade inválida")
 }
