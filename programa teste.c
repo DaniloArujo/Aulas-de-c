@@ -8,13 +8,13 @@ int main(){
 	
 	
     if(idade >0 && idade<=10)
-		printf("Criança\n");
-		else if (idade>11 && idade<18)
-			printf("adolescente\n");
-				else if (idade>19 && idade<100)
-				printf("idoso\n");
-					else if (idade>101 && idade<150)
-					    printf("zumbi\n");
-				    	else printf("idade inválida");
+		printf("CrianÃ§a\n");
+	else if (idade>11 && idade<18)
+		printf("adolescente\n");
+	else if (idade>19 && idade<100)
+		printf("idoso\n");
+	else if (idade>101 && idade<150)
+		printf("zumbi\n");
+	else printf("idade invÃ¡lida");
     
 }
