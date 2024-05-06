@@ -1,4 +1,4 @@
-git config  --global user.name "nome do usuário"
+git config  --global user.name "danilo"
 git config  --global user.email "daniloaraujomota@gmail.com"
 cd C:\Users\danilo.mota\Desktop\teste git                                              \\ comando windows abrir local do arquivo
 git clone https://github.com/joycitta-siqueira/algoritmoeprogramacao.git               \\clonar repositório
